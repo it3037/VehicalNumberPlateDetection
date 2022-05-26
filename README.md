@@ -36,6 +36,15 @@ pip install -r requirements.txt
  http://localhost:5000/
  ```
  
+## Screenshots
 
+### First
+![App Screenshot](https://github.com/it3037rakesh/VehicalNumberPlateDetection/blob/main/1.png)
+
+### Second
+![App Screenshot](https://github.com/it3037rakesh/VehicalNumberPlateDetection/blob/main/2.png)
+
+### Third
+![App Screenshot](https://github.com/it3037rakesh/VehicalNumberPlateDetection/blob/main/3.png)
 
  ### Enjoy........
